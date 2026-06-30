@@ -90,7 +90,7 @@ Immediately after executing the installer, the installation failed. Instead of r
 ![Reading Apache Error Logs](Read%20error%20log%20after%20failed%20osTicket%20install.png)
 *Diagnosing a PHP Fatal Error: `Uncaught mysqli_sql_exception: Access denied`. The MySQL password/privileges were corrected, and the installation proceeded successfully.*
 
-![Installation Success](osTicket%20Congratulations%20screen.jpg)
+<img width="1211" height="762" alt="osTicket Congratulations screen" src="https://github.com/user-attachments/assets/ddcf7fd4-85a2-48c6-bc02-5b38c0bab5b5" />
 *Successful installation confirmation.*
 
 Following setup, the environment was locked down for production. The `setup` directory was removed, and `ost-config.php` file permissions were restricted to `0644`.
