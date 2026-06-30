@@ -103,13 +103,13 @@ The system was configured for enterprise use, establishing separate portals for 
 ![End User Portal](Ticketing%20system%20for%20employees.png)
 *The public-facing Support Center portal where end-users submit requests.*
 
-![Staff Login](Successful%20login%20to%20osTicket.png)
+<img width="1206" height="725" alt="osTicketing Management system for IT" src="https://github.com/user-attachments/assets/088362ff-121a-495d-88c3-f74e36485838" />
 *The secure Agent authentication portal.*
 
-![Agent Panel Dashboard](osTicketing%20Management%20system%20for%20IT.jpg)
+<img width="1202" height="721" alt="Successful login to osTicket" src="https://github.com/user-attachments/assets/ecc085ab-a8f3-405c-8ab1-d8dfaf8f1dcf" />
 *The backend Staff Control Panel dashboard.*
 
-![Agent Settings](image_084404.png)
+<img width="1207" height="762" alt="Updating Agent Access" src="https://github.com/user-attachments/assets/cac6dbd0-b217-45fb-b56d-8e712545a350" />
 *Configuring IT Staff profiles and assigning "Extended Access" to ensure specific agents have visibility across multiple departmental queues.*
 
 ---
